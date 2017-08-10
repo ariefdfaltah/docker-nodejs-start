@@ -1,9 +1,9 @@
-Dockerfile configuration :
-	- Ubuntu:latest
-	- apt-get update
-	- apt-get install nodejs nodejs-legacy npm
-	- apt-get clean
-Node.js source :
-	- Generate by express-generator
+Dockerfile configuration :<br />
+	- Ubuntu:latest<br />
+	- nodejs<br />
+	- nodejs-legacy<br />
+	- npm<br />
+Node.js source :<br />
+	- Generate by express-generator<br />
 	- port : 3000
 
